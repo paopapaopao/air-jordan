@@ -112,13 +112,13 @@ nav ul li:hover {
 }
 
 .tone-1 {
-	background-color: rgba(151, 192, 230, 255);
+	background-color: #f2ecec;
 	height: 100vh;
 	flex: 1;
 }
 
 .tone-2 {
-	background-color: #f2ecec;
+	background-color: rgba(151, 192, 230, 255);
 	height: 100vh;
 	flex: 1;
 	position: relative;
